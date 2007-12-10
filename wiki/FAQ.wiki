@@ -5,7 +5,8 @@ _What I need for run the code from this page?_
   * Use Python 2.5.1 from [http://www.python.org/]
 
 _Which file should I call to run?_
-  * The main problems are defind in Problem.py - so run this file.
+  * The main problems are defind in *Problem.py* - so run this file.
+  * The file *Individual.py* is able to handle __main__, but for testing purposes only.
   * This code is in very early stage and problem configuration has to be done in file.
 
 _Whether this code be developed and updated in future?_
