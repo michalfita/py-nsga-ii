@@ -1,0 +1,3 @@
+The **Non-dominated Sorting Genetic Algorithm** was proposed by N. Srinivas and K. Deb in 1995, but its main disadvantage is sharing parameter had to be specified. But in 2000 Kalyanmoy Deb, Samir Agrawal, Amrit Pratab, T. Meyarivan from Indian Institute of Technology Kanpur modified the algorithm and published [the article](http://citeseer.ist.psu.edu/530140.html) about the second version of this algorithm. It is well known as **NSGA-II**.
+
+The code published here was done originally for students classes at [AGH University of Science and Technology in Krakow, Poland](http://www.agh.edu.pl/en).
